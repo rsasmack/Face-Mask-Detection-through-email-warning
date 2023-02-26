@@ -1,4 +1,4 @@
-# Face-Mask-detection-through-email-warning
+# Face-Mask-detection-via-email-warning
 
 **Objective:** Detecting masks over faces in a location to avoid the spread of Coronavirus is developed using deep learning models. The proposed model efficiently addresses varying kinds of occlusions in dense situations The combined approach not only helps in achieving high accuracy but also improves detection speed extensively. The model is almost 100% accurate at mask detection with average inference times of 0.10 seconds per image.
 
